@@ -1,1 +1,1 @@
-# RomanianNumeralsTravis
+[![Build Status](https://travis-ci.org/mrzeppa/RomanianNumeralsTravis.svg?branch=master)](https://travis-ci.org/mrzeppa/RomanianNumeralsTravis)
