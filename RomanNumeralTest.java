@@ -1,4 +1,3 @@
-import main.RomanNumeral;
 import org.junit.Test;
 import org.junit.Ignore;
 
